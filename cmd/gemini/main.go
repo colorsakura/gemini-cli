@@ -12,7 +12,7 @@ import (
 
 const (
 	version   = "0.3.1"
-	apiKeyEnv = "GEMINI_API_KEY" //nolint:gosec
+	apiKeyEnv = "GOOGLE_AI_API_KEY" //nolint:gosec
 )
 
 func run() int {
